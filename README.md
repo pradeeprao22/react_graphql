@@ -1,6 +1,7 @@
 # React_Graphql_NPM
-This is API build using GraphQL and Express with Dynemic Data Source using JSON server
+
+This is API build using GraphQL and Express with Dynemic Data Source using JSON server.
 NPM,
-GraphQL,
+GraphQL(Query, Mutation),
 GraphIQL,
-React.js
+React.js Implentaion
